@@ -46,7 +46,15 @@ Com o emulador aberto, pressione 'a' para Android ou 'i' para iOS no terminal on
 - React Native
 - Expo
 - React Navigation
+- Nativewind
+- React Native Vector Icons
+- React Native Async Storage
+- React Native Screens
+- React Native Safe Area Context
+- React Native Swipeable Item
+- React Native Reanimated
 - React Native Gesture Handler
+- React Native Swipeable Item
 
 ## Explicação das Dependências
 
