@@ -1,19 +1,19 @@
 # Task Flow App
 
-## 📱 Sobre / About
+## 📱 Sobre
 
 Um aplicativo de gerenciamento de tarefas desenvolvido com React Native.
 
-## 🚀 Como executar / How to run
+## 🚀 Como executar
 
-### Pré-requisitos / Prerequisites
+### Pré-requisitos
 
 - Node.js
 - npm ou yarn
 - Expo CLI
 - Um emulador iOS/Android ou um dispositivo físico / iOS/Android emulator or physical device
 
-### Instalação / Installation
+### Instalação
 
 ```bash
 # Clone o repositório / Clone the repository
@@ -31,18 +31,17 @@ yarn install
 npx expo start
 ```
 
-### 📱 Rodando no dispositivo / Running on device
-
+### 📱 Rodando no dispositivo
 1. Instale o aplicativo Expo Go no seu dispositivo móvel
 
 2. Escaneie o QR Code que aparece no terminal ou na página web do Expo
 
-### 🔧 Rodando no emulador / Running on emulator
+### 🔧 Rodando no emulador
 
 Com o emulador aberto, pressione 'a' para Android ou 'i' para iOS no terminal onde o Expo está rodando
 
 
-## 🛠️ Tecnologias / Technologies
+## 🛠️ Tecnologias
 
 - React Native
 - Expo
